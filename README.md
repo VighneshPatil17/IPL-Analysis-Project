@@ -28,7 +28,7 @@ To run this project, you'll need Python and the following libraries:
 
 ### 1. Clone the Repository
 First, clone the repository to your local machine using the following command:
-```bash
+
 git clone https://github.com/VighneshPatil17/IPL-Analysis.git
 cd IPL-Analysis
 pip install -r requirements.txt
